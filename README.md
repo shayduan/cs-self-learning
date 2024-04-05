@@ -12,3 +12,6 @@
 * [GreatFrontEnd System Design](https://www.greatfrontend.com/prepare/system-design)
 * [前端修炼手册](https://darkyzhou.net/categories/web-frontend/) by @darkyzhou
 * [type-challenges](https://github.com/type-challenges/type-challenges)
+
+## Interview Preparation
+* [NeetCode](https://www.youtube.com/@NeetCode) mock interviews
