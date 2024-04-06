@@ -13,5 +13,8 @@
 * [前端修炼手册](https://darkyzhou.net/categories/web-frontend/) by @darkyzhou
 * [type-challenges](https://github.com/type-challenges/type-challenges)
 
+## Leetcode
+* [宫水三叶的刷题笔记 - 按类别分类](https://github.com/SharingSource/LogicStack-LeetCode/wiki)
+
 ## Interview Preparation
 * [NeetCode](https://www.youtube.com/@NeetCode) mock interviews
