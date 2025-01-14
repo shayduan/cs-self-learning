@@ -16,6 +16,7 @@
 
 ## Leetcode
 * [宫水三叶的刷题笔记 - 按类别分类](https://github.com/SharingSource/LogicStack-LeetCode/wiki)
+* [My Grind 75 Problem List on Leetcode.cn (Chinese site)](leetcode.cn/problem-list/GczD33To/)
 
 ## Interview Preparation
 * [NeetCode](https://www.youtube.com/@NeetCode) mock interviews
