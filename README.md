@@ -12,7 +12,7 @@
 ## Front-end Development
 * [GreatFrontEnd System Design](https://www.greatfrontend.com/prepare/system-design)
 * [前端修炼手册](https://darkyzhou.net/categories/web-frontend/) by @darkyzhou
-* [type-challenges](https://github.com/type-challenges/type-challenges)
+* [type-challenges](https://github.com/type-challenges/type-challenges) ✅ Finished
 
 ## Leetcode
 * [宫水三叶的刷题笔记 - 按类别分类](https://github.com/SharingSource/LogicStack-LeetCode/wiki)
